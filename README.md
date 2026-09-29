@@ -4,7 +4,7 @@
 This project demonstrates the design and manual implementation of a highly secure, production-ready **Two-Tier AWS VPC Infrastructure** in the `eu-north-1` (Stockholm) region. The architecture is engineered to isolate critical workloads (such as databases) in a strictly private environment while maintaining controlled administrative access and conditional outbound internet connectivity, mirroring real-world banking and FinTech cloud deployments.
 
 ## Architecture Diagram
-![AWS Architecture Diagram](architecture-diagram.png)
+![AWS Architecture Diagram](architecture-diagram.png.png)
 
 ## Core Infrastructure Components
 
